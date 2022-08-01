@@ -21,10 +21,14 @@
 簡単 |
 [Markdown](doc/ADT.md) |
 代数的データ型(Algebraic Data Type) 
-[Java 基礎]
-
+[Java基礎]
 
 簡単 |
 [Markdown](doc/GADT.md) |
 一般的代数的データ型(Generalized Algebriac Data Type) 
-[Java 基礎， ADT] 
+[Java基礎、ADT] 
+
+簡単 |
+[Markdown](doc/Monoid.md) |
+モナド(Monoid) 
+[Java基礎] 
